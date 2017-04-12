@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Battletech Character Creator</string>
+    <string name="ProfileConfirm">Confirm</string>
+    <string name="EnterWeight">Weight:</string>
+    <string name="EnterCharName">Character Name:</string>
+    <string name="EnterPlayerName">Player Name:</string>
+    <string name="EnterHeight">Height:</string>
+    <string name="EnterEyeColor">Eye Color:</string>
+    <string name="EnterHairColor">Hair Color:</string>
+</resources>
